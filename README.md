@@ -8,3 +8,4 @@ Dataset is picked from Kaggle.
 
 MODELLING:It is a regression problem thus we are going to apply a regression model. In this case we have used Random Forest Regressor.
 
+APPLICATION:Used Flask to connect the frontend and the backend.
